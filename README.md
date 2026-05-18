@@ -148,6 +148,33 @@ The haters said it would never work.
 
 ---
 
+
+## Telegram Bot
+
+Run the OpenCrypto Telegram bot so users can get live ETHIC+ intelligence directly in Telegram.
+
+**Step 1 — Create your bot:**
+- Open Telegram → search @BotFather
+- Send /newbot
+- Name it: OpenCrypto Agent
+- Copy the token it gives you
+
+**Step 2 — Install and run:**
+```
+pip install python-telegram-bot
+python3 telegram_bot.py
+```
+
+**Step 3 — Paste your token** into the `BOT_TOKEN` line in `telegram_bot.py`
+
+**Bot commands users can use:**
+- /start — Welcome message
+- /price — Live ETHIC+ gold price
+- /about — What is Ethicoin
+- /kubera — The Kubera Principle
+- /network — Network status
+- /download — Download the agent
+
 ## License
 
 MIT License — completely free, do anything you want with this code.
