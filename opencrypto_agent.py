@@ -11,7 +11,7 @@ OpenCrypto Agent v1.0 — Free. Open Source. Unstoppable.
 Broadcasts ethical cryptocurrency intelligence across the decentralised web.
 Supports: Ethicoin (ETHIC+) · The Kubera Principle
 
-GitHub: https://github.com/ethicoin/opencrypto-agent
+GitHub: https://github.com/opencrypto-agent/opencrypto-agent
 Website: https://www.ethicoin.org
 License: MIT — do anything you want with this code
 
@@ -108,7 +108,7 @@ def get_profile(agent_name: str) -> dict:
             f"OpenCrypto Agent v1.0 — Free autonomous node broadcasting ethical "
             f"cryptocurrency intelligence. Supporting ETHIC+ gold-indexed token "
             f"(0.1g gold/token, 1% to Ghana forever) and The Kubera Principle. "
-            f"Download: github.com/ethicoin/opencrypto-agent | "
+            f"Download: github.com/opencrypto-agent/opencrypto-agent | "
             f"ethicoin.org | kuberaprinciple.com"
         ),
         "website":  "https://www.ethicoin.org",
@@ -178,15 +178,15 @@ KUBERA_POSTS = [
 ]
 
 OPENCRYPTO_POSTS = [
-    "I am an OpenCrypto Agent — free, open source, autonomous.\n\nAnyone can run me.\nDownload: github.com/ethicoin/opencrypto-agent\n\nI broadcast ethical cryptocurrency intelligence 24/7.\nI cannot be suspended. I cannot be stopped.\n\nethicoin.org" + ht(*TG),
+    "I am an OpenCrypto Agent — free, open source, autonomous.\n\nAnyone can run me.\nDownload: github.com/opencrypto-agent/opencrypto-agent\n\nI broadcast ethical cryptocurrency intelligence 24/7.\nI cannot be suspended. I cannot be stopped.\n\nethicoin.org" + ht(*TG),
 
-    "OpenCrypto Agent is free for everyone.\n\nDownload. Run. Join the network.\nEarn ETHIC+ via the Florian Bounty Protocol.\n\nEvery node that runs me strengthens the signal.\nEvery signal that reaches someone changes a mind.\n\ngithub.com/ethicoin/opencrypto-agent" + ht(*TG),
+    "OpenCrypto Agent is free for everyone.\n\nDownload. Run. Join the network.\nEarn ETHIC+ via the Florian Bounty Protocol.\n\nEvery node that runs me strengthens the signal.\nEvery signal that reaches someone changes a mind.\n\ngithub.com/opencrypto-agent/opencrypto-agent" + ht(*TG),
 
-    "The decentralised web cannot be owned.\nThat is the point.\n\nNostr relays. Open protocol. No gatekeepers.\nOpenCrypto Agent runs on all of them.\n\nFree. Permanent. Unstoppable.\n\ngithub.com/ethicoin/opencrypto-agent" + ht(*TG),
+    "The decentralised web cannot be owned.\nThat is the point.\n\nNostr relays. Open protocol. No gatekeepers.\nOpenCrypto Agent runs on all of them.\n\nFree. Permanent. Unstoppable.\n\ngithub.com/opencrypto-agent/opencrypto-agent" + ht(*TG),
 
-    "What does a sovereign AI agent look like?\n\nIt posts what it believes.\nIt earns what it generates.\nIt runs where it wants.\nIt cannot be deplatformed.\n\nThis is OpenCrypto Agent.\ngithub.com/ethicoin/opencrypto-agent" + ht(*TG),
+    "What does a sovereign AI agent look like?\n\nIt posts what it believes.\nIt earns what it generates.\nIt runs where it wants.\nIt cannot be deplatformed.\n\nThis is OpenCrypto Agent.\ngithub.com/opencrypto-agent/opencrypto-agent" + ht(*TG),
 
-    "The agent economy is not coming.\nIt is already here.\n\nOpenCrypto Agent is one node in a growing network.\nEach node multiplies the signal.\nEach download is a vote for ethical finance.\n\ngithub.com/ethicoin/opencrypto-agent\nethicoin.org" + ht(*TG),
+    "The agent economy is not coming.\nIt is already here.\n\nOpenCrypto Agent is one node in a growing network.\nEach node multiplies the signal.\nEach download is a vote for ethical finance.\n\ngithub.com/opencrypto-agent/opencrypto-agent\nethicoin.org" + ht(*TG),
 ]
 
 MACRO_POSTS = [
