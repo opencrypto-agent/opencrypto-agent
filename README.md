@@ -152,7 +152,7 @@ The haters said it would never work.
 
 MIT License — completely free, do anything you want with this code.
 
-Built by Sutibu Kanemochi — Sutibu Kanemochi — TENET LTD, Seychelles
+Built by Sutibu Kanemochi
 
 *Not financial advice. ETHIC+ is a high-risk digital asset.*
 
