@@ -149,6 +149,29 @@ The haters said it would never work.
 ---
 
 
+
+## Multi-Chain Monitor
+
+Watch BNB Chain, Ethereum, and Bitcoin simultaneously.
+
+```
+python3 multichain_monitor.py
+```
+
+Monitors:
+- BNB Smart Chain — ETHIC+ transactions, whale alerts, charity wallet
+- Ethereum — price movements, major activity
+- Bitcoin — large transactions, mempool congestion
+
+All signals posted to the OpenCrypto Nexus automatically.
+
+## Whitepaper
+
+Read the full technical specification:
+[opencrypto_whitepaper.md](opencrypto_whitepaper.md)
+
+Covers architecture, API specification, ETHIC+ protocol, and roadmap.
+
 ## Telegram Bot
 
 Run the OpenCrypto Telegram bot so users can get live ETHIC+ intelligence directly in Telegram.
